@@ -32,9 +32,9 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 
 ## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
 
-[![Data Jobs Dashboard 2.0](../images/Project2_Dashboard_Overview.gif)](./Project2/README.md)
+[![Data Jobs Dashboard 2.0](/images/pj2_pg1.png)](./Project2/README.md)
 
-[🌐 **View Interactive Dashboard on Power BI Service**](https://lukeb.co/powerbi-project2)
+
 
 Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly focused, single-page experience. It's optimized to deliver the most critical insights quickly to job seekers, featuring dynamic interactions and more advanced analytical capabilities.
 
@@ -50,7 +50,7 @@ Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly fo
 * 🎚️ Optimized Slicers & Advanced Cross-Filtering Techniques
 * ✨ Report Performance Considerations
 
-[➡️ **View Full Project 2 Details (README)**](./Project2/README.md)
+[➡️ **View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
 
 ---
 
